@@ -36,7 +36,7 @@ Public sector roles looked into domain expertise rather than specific skills.
 
 ## Assumptions made
 
-Average salary computed as midpoint of salary range.  
+Average salary computed as midpoint of salary range, and used as default salary for that job in KPI's.  
 Annual salary calculated using standard working hours and multipling based on the frequency of pay.  
 Skills inferred from Preferred Skills, although it can be dedused from 'Job Description' as well.  
 Only valid dates are taken for job-posting based KPI's.  
